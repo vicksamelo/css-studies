@@ -21,7 +21,7 @@
 }
 
 /* Com o flex-grow: 0; nada é distribuído */
-.basis-auto-grow-0 {
+.basis-auto {
   flex-basis: auto;
 }
 
